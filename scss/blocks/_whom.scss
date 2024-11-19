@@ -1,0 +1,39 @@
+.whom {
+    padding-top: 132px;
+
+    &__container {
+        position: relative;
+    }
+
+    &__name {
+        margin-bottom: 20px;
+        text-align: center;
+        font-size: rem(24);
+        font-weight: 700;
+        line-height: prc(28, 24);
+    }
+
+    &__column {
+        background: #FFFFFF;
+        display: flex;
+        gap: 20px;
+        padding: 25px 27px;
+        border-radius: 17px;
+        margin-bottom: 20px;
+    }
+
+    &__title {
+        color: #E1003C;
+        text-transform: uppercase;
+    }
+
+    &__subtitle {
+        color: #151515;
+    }
+
+    &__light {
+        position: absolute;
+        bottom: -700px;
+        left: -100px;
+    }
+}

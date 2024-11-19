@@ -1,0 +1,52 @@
+.guarantee {
+    padding: 59px 0 79px 0;
+
+    &__title {
+        text-align: center;
+        max-width: 320px;
+        margin: 0 auto;
+        font-size: rem(30);
+        font-weight: 700;
+        line-height: prc(36, 30);
+        margin-bottom: 38px;
+    }
+
+    &__base {
+        border-radius: 21px;
+        background: rgb(150, 3, 42);
+        margin-bottom: 8px;
+        padding: 45px 36px 46px 33px;
+        display: flex;
+        gap: 10px;
+        box-shadow: 0 0 200px 12px #96032A;
+    }
+
+    &__image-bottom {
+        rotate: 180deg;
+    }
+
+    &__subtitle {
+        span {
+            font-weight: 700;
+        }
+        font-size: rem(16);
+        font-weight: 500;
+        line-height: prc(22, 16);
+    }
+
+    &__block {
+        border-radius: 21px;
+        background: rgb(150, 3, 42);
+        margin-bottom: 8px;
+        padding: 33px 36px 35px 33px;
+        box-shadow: 0 0 200px 12px #96032A;
+    }
+
+    &__but {
+        font-size: rem(24);
+        font-weight: 700;
+        line-height: prc(29, 24);
+        margin-bottom: 13px;
+        text-transform: uppercase;
+    }
+}

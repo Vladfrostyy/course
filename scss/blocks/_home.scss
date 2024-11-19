@@ -1,0 +1,214 @@
+.wrap {
+    max-width: 450px;
+    margin: 0px auto;
+}
+
+.home {
+    padding-top: 50px;
+    position: relative;
+
+    &__container {
+        text-align: center;
+        position: relative;
+    }
+
+    &__name {
+        color: #4c4c4c;
+        font-size: rem(12);
+        font-weight: 700;
+        line-height: prc(19, 12);
+        margin-bottom: 35px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+    }
+
+    &__title {
+        font-size: rem(46);
+        font-weight: 800;
+        line-height: prc(55, 46);
+        max-width: 479px;
+        margin: 0 auto 15px auto;
+    }
+
+    &__subtitle {
+        margin: 0 auto;
+        font-size: rem(20);
+        font-weight: 800;
+        line-height: prc(20, 18);
+        max-width: 352px;
+        margin-bottom: 33px;
+    }
+
+    &__description {
+        margin: 0 auto;
+        width: 273px;
+        margin-bottom: 500px;
+    }
+
+    &__button {
+        cursor: pointer;
+        position: fixed;
+        bottom: -30px;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        height: 92px;
+        margin: -40px auto 0px auto;
+        width: 315px;
+
+        display: flex;
+        align-items: center;
+        border-radius: 81px;
+        background: rgb(255, 255, 255);
+        z-index: 10000000;
+        transition: all 0.2s linear;
+
+        &:hover {
+            background: #e1003c;
+        }
+    }
+
+    &__button-sticker {
+        position: absolute;
+        bottom: -7px;
+        right: -10px;
+    }
+
+    &__button-sticker img {
+        width: 105px;
+        height: 105px;
+
+        animation-name: my-animation;
+        animation-duration: 10s;
+        animation-iteration-count: infinite;
+        animation-timing-function: linear;
+        transition: linear;
+
+        @keyframes my-animation {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+
+            0% {
+                transform: rotate(0deg);
+            }
+        }
+
+    }
+
+    &__button-old-price {
+        position: absolute;
+        font-weight: 600;
+        font-size: 12px;
+        letter-spacing: -0.03em;
+        text-transform: uppercase;
+        text-decoration: line-through;
+        color: #fff;
+        z-index: 3;
+        top: 30px;
+        right: 30px;
+    }
+
+    &__button-new-price {
+        position: absolute;
+        font-weight: 700;
+        font-size: 18px;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+        color: #e1003c;
+        margin-right: 20px;
+        margin-top: -2px;
+        top: 50px;
+        right: 10px;
+    }
+
+
+    &__link {
+        margin: 0 auto 0 26px;
+        font-size: rem(22);
+        font-weight: 700;
+        line-height: prc(30, 20);
+        color: #030514;
+        text-transform: uppercase;
+        margin-left: 60px;
+    }
+
+    &__image {
+        top: 271px;
+        position: absolute;
+        margin-left: -171px;
+    }
+
+    &__bg {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        z-index: -100;
+    }
+
+    &__sticker {
+        position: absolute;
+        top: 400px;
+        left: -20px;
+        rotate: -11deg;
+    }
+
+    &__sticker img {
+        width: 151px;
+        height: 151px;
+
+        animation-name: my-animation;
+        animation-duration: 10s;
+        animation-iteration-count: infinite;
+        animation-timing-function: linear;
+        transition: linear;
+        z-index: -1;
+
+        @keyframes my-animation {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+
+            0% {
+                transform: rotate(0deg);
+            }
+        }
+    }
+
+    &__old-price {
+        position: absolute;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 109%;
+        text-decoration: line-through;
+        text-align: center;
+        color: #fff;
+
+        z-index: 3;
+
+        top: 50px;
+        left: 55px;
+    }
+
+    &__new-price {
+        position: absolute;
+        z-index: 3;
+        font-weight: 700;
+        font-size: 32px;
+        line-height: 103%;
+        text-align: center;
+        color: #e1003c;
+
+        top: 70px;
+        left: 45px;
+    }
+}

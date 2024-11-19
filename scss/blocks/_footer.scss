@@ -1,0 +1,43 @@
+.footer {
+    
+    padding: 70px 0px 150px 0px;
+    background-color: black;
+    text-align: center;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    line-height: 140%;
+
+    &__offert-link {
+        color: #fff;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 14px;
+        line-height: 140%;
+
+        text-decoration: underline;
+    }
+
+    &__politic {
+        margin-bottom: 20px;
+    }
+
+    &__politic-link {
+        text-decoration: underline;
+    }
+
+    &__nazwa {
+        font-weight: 700;
+    }
+
+    &__NIP {
+        font-weight: 700;
+    }
+
+    &__email {
+        font-weight: 700;
+    }
+
+    &__instagram {
+        font-weight: 700;
+    }
+}

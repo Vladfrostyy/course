@@ -1,0 +1,23 @@
+//fonts
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+@import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+// helpers
+@import './base/vars';
+@import './base/helpers';
+@import './base/reset';
+@import './base/repeat';
+
+// blocks
+@import './blocks/_header';
+@import './blocks/_home';
+@import './blocks/_start';
+@import './blocks/_whom';
+@import './blocks/_how';
+@import './blocks/_program';
+@import './blocks/_skills';
+@import './blocks/_purchase';
+@import './blocks/_guarantee';
+@import './blocks/_questions';
+@import './blocks/video';
+@import './blocks/footer';

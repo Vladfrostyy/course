@@ -1,0 +1,46 @@
+.purchase {
+    background: #000000;
+
+    &__container {
+        position: relative;
+    }
+
+    &__title {
+        margin: 0 auto;
+        max-width: 315px;
+        text-align: center;
+        color: #FFFFFF;
+        font-size: rem(24);
+        font-weight: 700;
+        line-height: prc(29, 24);
+        margin-bottom: 27px;
+    }
+
+    &__base {
+        margin: 0 19px 11px 19px;
+        padding: 25px 27px;
+        border-radius: 21px;
+        background: rgb(255, 255, 255);
+    }
+
+    &__step {
+        display: inline-block;
+        border-radius: 33px;
+        background: rgb(225, 0, 60);
+        padding: 4px 13px 7px 13px;
+        margin-bottom: 11px;
+    }
+
+    &__about {
+        font-size: rem(16);
+        font-weight: 500;
+        line-height: prc(22, 16);
+        color: #000000;
+    }
+
+    &__light {
+        position: absolute;
+        bottom: -50px;
+        right: 0px;
+    }
+}

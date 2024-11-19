@@ -1,0 +1,38 @@
+.start {
+    padding-top: 134px;
+
+    &__container {
+        position: relative;
+    }
+
+    &__question {
+        margin: 0 auto 14px auto;
+        text-align: center;
+        font-size: rem(24);
+        font-weight: 700;
+        line-height: prc(28, 24);
+        max-width: 369px;
+    }
+
+    &__column {
+        border-radius: 17px;
+        margin-bottom: 12px;
+        background: #FFFFFF;
+        padding: 25px 27px;
+    }
+
+    &__title {
+        color: #E1003C;
+        text-transform: uppercase;
+    }
+
+    &__subtitle {
+        color: #151515;
+    }
+
+    &__light-2 {
+        position: absolute;
+        bottom: -500px;
+        left: 0px;
+    }
+}

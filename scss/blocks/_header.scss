@@ -1,0 +1,28 @@
+.header {
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    top : 0 ;
+    left: 0 ;
+    
+    &__container {
+        margin: 0 auto;
+        width: 181px;
+        background: rgb(225, 0, 60);
+        padding: 26px 0 22px 0;
+        border-radius: 0px 0px 17px 17px;
+    }
+
+    &__title {
+        text-transform: uppercase;
+        font-size: rem(13);
+        font-weight: 700;
+        line-height: prc(18, 13);
+    }
+
+    &__date {
+        font-size: rem(17);
+        font-weight: 600;
+        line-height: prc(25, 18);
+    }
+}

@@ -1,0 +1,138 @@
+.how {
+    padding-top: 139px;
+    text-align: center;
+
+    &__button {
+        cursor: pointer;
+        padding: 16px 54px;
+        margin: 0 auto 142px auto;
+        text-transform: uppercase;
+        
+        font-size: 15px;
+        font-weight: 700;
+        line-height: 30px;
+        background: #FFFFFF;
+        color: #030514;
+        max-width: 352px;
+        border-radius: 81px;
+        transition: all 0.2s linear;
+
+        &:hover {
+            background: #e1003c;
+        }
+    }
+
+    &__speaker {
+        font-size: rem(20);
+        font-weight: 700;
+        line-height: prc(28, 20);
+        color: #E1003C;
+        margin-bottom: 7px;
+    }
+
+    &__name {
+        text-transform: uppercase;
+        font-size: rem(24);
+        font-weight: 700;
+        line-height: prc(28, 24);
+        margin-bottom: 22px;
+    }
+
+    &__date {
+        font-family: 'Inter';
+        font-size: rem(30);
+        font-weight: 600;
+        line-height: prc(42, 30);
+        margin-bottom: 60px;
+    }
+
+    &__text {
+        font-family: 'Inter';
+        display: flex;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        margin: 0px auto 30px auto;
+        flex-direction: column;
+    }
+
+    &__text:first-child {
+        margin: 0px auto 120px auto;
+    }
+    
+    &__ponad {
+        font-family: 'Inter';
+        color: #E1003C;
+        font-size: 1.75rem;
+        font-weight: 600;
+        line-height: prc(42, 30);
+    }
+
+    &__number {
+        font-family: 'Inter';
+        color: #E1003C;
+        font-size: 1.75rem;
+        font-weight: 600;
+        line-height: prc(42, 30);
+        width: 300px;
+        max-width: 180px;
+        margin-left: 20px;
+        margin-top: -100px;
+    }
+
+    &__about {
+        font-family: 'Inter';
+    }
+    
+    &__title {
+        span {
+            color: #E1003C;
+        }
+        font-size: rem(24);
+        font-weight: 600;
+        line-height: prc(29, 24);
+        margin: 0 auto;
+    }
+
+    &__image {
+        margin-left: -15px;
+    }
+}
+
+.gift {
+    padding: 74px 0 158px 0;
+
+    &__name {
+        width: 70px;
+    }
+
+    &__item {
+        margin-bottom: 4px;
+        padding: 25px 10px;
+        border-radius: 21px;
+        background: rgb(150, 3, 42);
+        display: flex;
+        gap: 10px;
+        align-items: center;
+    }
+
+    &__bonus {
+        padding: 9px 14px;
+        border-radius: 21px;
+        background: rgb(225, 0, 60);
+        display: flex;
+        gap: 8px;
+        align-items: center;
+    }
+
+    &__image {
+        width: 15px;
+        height: 15px;
+    }
+
+    &__description {
+        font-size: rem(16);
+        font-weight: 700;
+        line-height: prc(22, 16);
+    }
+}
