@@ -1,0 +1,12 @@
+<svg width="31.000000" height="31.000000" viewBox="0 0 31 31" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<pattern id="pattern_19_15840" patternContentUnits="objectBoundingBox" width="1.000000" height="1.000000">
+			<use xlink:href="#image19_1584_0" transform="matrix(0.02,0,0,0.02,0,0)"/>
+		</pattern>
+		<image id="image19_1584_0" width="50.000000" height="50.000000" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABHNCSVQICAgIfAhkiAAAA59JREFUaIHtms1v1EYYxp8XhVNRCdwo2V5KIMAFlSQHRJBKsuIG9AB3TvwHSNyDAKkS4kMIggT3nkoqtRWrjSgVl0pIvfCRcmThRBKaUoIQ5NeDx8RrdtfrGe9ukPKTrFnb8z7zPh57PfZYWmONjmB5KgM7JB2VVJa0VVJJ0hcF5fKfpGeSapIqkm6b2WxB2hHAMFCl+9wH9hVhYD1wBVjugYmYZeAy0OdrYhMw00MDaarApmb5NrxGgPWSfpN00OsodI4/JE2Y2bv0jnVNAi5o9ZmQpDFJPzTa8UmPAMOS/my0b5WApBEze5Dc2KhHzmv1mpCi3M6lN9YZIbpP9PKU+kXRvakk6dcW9SaAweSGdI8cLTixvJw0s5qZ1SSdzKhbl2vayEShaXWWcnIlbeTrAhqYl3RT0REbkrTBLUOSvpd0S9JCk9gpoASUJE1ltNM8V2Ax4Ib1BpgEvsxyCmwEzrgYXxZbNeBLDdib0CkDN4AnwGu3PAamgIlEvWEX60XRRmrAgIvfDvzeRsxd3L8OMICnmSKNvMH1BHAAmM8ROweMudgRYClv40UamUz0RB4TMXPANqdxLm9wUUbmgI0urp3TqRkzTqOfnAcjmXuzQWM7/GRm/wBlSQcCdL4Dxs3slaTbviIhRqZdeTxAIybWmG5ZqwUhRh67cixAIybu0Ue+AiFGXrhya4BGzIArn/sKhBgpkmVXeucTYuQrV3ofxQSxxhZfgRAju1x5L0AjJtbY7SsQYuSwK38M0IiJNQ63rNUuOW9kyRvi3ZyxSapOox9YyBOYzD2kRzZLOuV+n5D00kNjXitPgqcl9Qfks4LH0VwieusiYIyol9rlJbDfxY7S40Ej1A/jt9He28kq8I2LKQHPfRou2ghEZkYSOuPAdeAR8K9bHgLXgIOJeqO+JrKMhDzqLgFngczznOjCPg+8DWiv7lHXUg3MStqelUgGC4pGsdOKxmM1t31A0k5JR9wSemHPmtlQvJI2UtHn80rojpkdilfSf7+VLicTwp3kSrpHBiX93dV0/NlhZh9zresRM3sqqdr1lPJTSZqQGk8r7JH0QKtniJ9mWdJo5rSCmf0l6Wq3svLgStqE1HzqrU/R1Nt4p7PKyT1J5ban3szsvaRjkmY6nFgeqpKONDKRCdAHXKK309MfgIv4Tk+nDO0Gfu6BiQrwbTs55v2EY1Arn3CUFA07NuQ+Mo15regTjmda+YTjaUHaa6zhy/8ifvRaK323wgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<rect id="Instagram" width="31.000000" height="31.000000" fill="url(#pattern_19_15840)" fill-opacity="1.000000"/>
+</svg>

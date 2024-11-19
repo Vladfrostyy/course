@@ -1,0 +1,12 @@
+<svg width="31.000000" height="31.000000" viewBox="0 0 31 31" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<pattern id="pattern_19_15900" patternContentUnits="objectBoundingBox" width="1.000000" height="1.000000">
+			<use xlink:href="#image19_1590_0" transform="matrix(0.02,0,0,0.02,0,0)"/>
+		</pattern>
+		<image id="image19_1590_0" width="50.000000" height="50.000000" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABHNCSVQICAgIfAhkiAAAAstJREFUaIHtmbtrFFEYxc8XJBpQY1KIxICaBImlKOIDxE4bI5aCoJgm/4GJlVr4jrWdkICFRXyB2inYCPGBRTSiBoT4SKGJJIVskZ/FzEJ2Muvemb0zqzA/2GLvzDn3Ozv3zp2dKxUUFHgBWAsMALeBs2FbL1DCjWEHzQIwCdwFTgHtPgM0A+eAX0s6LAHbwuPDjkFKQG9CzRxwBmipN8Qm4E2VTh6H57QCM46FpdEAvAA2pg3RBXyu0UFfeG5/gqIOp9AATCcOA6wEXjmYfwzPbQLGHQv6kEJTZhxYlSTI+QTmg6FmL7CYoabMkGuINiondi3mgY5QO5qhpswc0OYSZCChMcBoqO0Ii3RhJIWmzEmXIHcSmkIwPPaE+sEMNWXGXIJMJTQt85JgAjcD7zPUAEy6BFlIVH4l/aFHX8aaeZcg9TADrAt9HmaooWaQggZj0Yb/5bKZWUXtTY0qxDdFkH+NIsi/RhZBHknaIqlb0jVJpQz6qE3itXw56yN+PcCYB98KonV7X0ei9/clvgckXZe0vR7/av3kNkfM7KmknZJOSPru2z/XyW5mi2Y2ImmrpIvyOH9yG1pxAMck3fLRT6ODtEv64aOfRq8jh3wZNSQIsAa4IOmmL88VvoxcAJokHZd0WdIGn965BfG9jkSJG1q1/9j/BWBz5HsPweubJ/IXYlmNcUG+1dnJDYIX4N3AVUkTko7W6Rnla7Qhbmi9VbBgpeWgpE916F2YiDbEXZEHGRfhg/vRhrgFsV3SlKTWPCpKwZykLjObXdq47IqY2U9JV/KqKgWXoiGkmCsiSQR7ds8k7ci6qoSMS9pvZr+jB6o+FwGdkp5LSrd3559pSbvN7EvcwaqPKGY2LWmXgl+h0byWtK9aCCeAFmCIYKcob2aB0zjsGyZ55G6TdCT89ErqlLQ69S8Uz4KCIfROwS32XtzELigoSM4fNipdFwbobawAAAAASUVORK5CYII="/>
+	</defs>
+	<rect id="Instagram Reels" width="31.000000" height="31.000000" fill="url(#pattern_19_15900)" fill-opacity="1.000000"/>
+</svg>

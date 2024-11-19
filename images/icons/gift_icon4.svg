@@ -1,0 +1,28 @@
+<svg width="13.000000" height="14.000000" viewBox="0 0 13 14" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip8_1255">
+			<rect id="66ed6486d5a52a227ffe2758_icon-f.svg" rx="0.000000" width="12.000000" height="13.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip8_1254">
+			<rect id="66ed6486d5a52a227ffe2758_icon-f.svg fill" rx="0.000000" width="12.000000" height="13.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip8_1253">
+			<rect id="66ed6486d5a52a227ffe2758_icon-f.svg" rx="0.000000" width="12.000000" height="13.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip8_1253)">
+		<g clip-path="url(#clip8_1254)">
+			<g clip-path="url(#clip8_1255)">
+				<mask id="mask8_1257" mask-type="alpha" maskUnits="userSpaceOnUse" x="0.000000" y="0.500000" width="13.000000" height="13.000000">
+					<path id="Vector" d="M0 0.5L13 0.5L13 13.5L0 13.5L0 0.5Z" fill="#000000" fill-opacity="1.000000" fill-rule="evenodd"/>
+				</mask>
+				<g mask="url(#mask8_1257)">
+					<path id="Vector" d="M6.5 0.5C2.92 0.5 0 3.42 0 7C0 10.57 2.92 13.5 6.5 13.5C10.07 13.5 13 10.57 13 7C13 3.42 10.07 0.5 6.5 0.5ZM6.1 4.33C5.87 4.33 5.67 4.51 5.64 4.74L5.5 5.85L6.11 5.85L6.11 6.61L5.4 6.61L5.06 9.34C4.99 9.96 4.46 10.42 3.84 10.42L3.46 10.42L3.45 9.66L3.83 9.66C4.08 9.66 4.28 9.48 4.31 9.25L4.64 6.61L3.83 6.61L3.83 5.85L4.73 5.85L4.88 4.65C4.96 4.03 5.48 3.57 6.1 3.57L6.48 3.57L6.5 4.33L6.1 4.33ZM9.32 8.52L8.78 9.06L8.02 8.29L7.26 9.06L6.72 8.52L7.48 7.76L6.72 7L7.26 6.46L8.02 7.22L8.78 6.46L9.32 7L8.56 7.76L9.32 8.52Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
